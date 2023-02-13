@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">César Rafael</h1>
     <h3 align="center">A passionate web fullstack developer from Perú</h3>
+    <h3 align="center">Computer Science (Software Enginnering) from PUCP</h3>
 </div>
 ---
 
