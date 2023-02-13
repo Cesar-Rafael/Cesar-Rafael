@@ -3,11 +3,10 @@
     <h3 align="center">A passionate web fullstack developer from Perú</h3>
     <h3 align="center">Computer Science (Software Enginnering) from PUCP</h3>
 </div>
----
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about Javascript**
+- 💬 Ask me about Javascript and React**
 
 - 📫 How to reach me **crafael@pucp.edu.pe**
 
