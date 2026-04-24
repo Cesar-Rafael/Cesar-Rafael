@@ -6,11 +6,9 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about Javascript and React**
+- 💬 Ask me about Tipescript and React**
 
 - 📫 How to reach me **crafael@pucp.edu.pe**
-
-- 🌱 I’m currently learning **Microservices using Docker and Kubernetes**
 
 
 <div align="left">
